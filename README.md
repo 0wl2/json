@@ -3,8 +3,7 @@ almost complete JSON parser in C
 
 ## is it usable?
 
-pretty much, just missing unicode  
-**DO NOT USE WITH UNICODE, STRINGS WILL BE BLANK**
+pretty much, just missing unicode (unicode will be ignored)
 
 ## example usage
 
