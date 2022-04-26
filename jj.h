@@ -206,6 +206,7 @@ char* process_between_quotes(char* p, int* l)
 			case 'n': *ptr2 = '\n'; break;
 			case 'r': *ptr2 = '\r'; break;
 			case 't': *ptr2 = '\t'; break;
+			case 'u': ptr += 4; length++; break; 
 			}
 		} else {
 			*ptr2 = *ptr1;
