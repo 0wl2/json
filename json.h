@@ -1,5 +1,5 @@
 /*
- * jj - json parser in C
+ * json parser in C
  */
 
 #pragma once
