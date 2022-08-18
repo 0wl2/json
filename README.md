@@ -1,4 +1,4 @@
-# jj
+# json
 almost complete JSON parser in C
 
 ## is it usable?
