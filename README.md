@@ -8,7 +8,7 @@ pretty much, just missing unicode (unicode will be ignored)
 ## example usage
 
 ```c
-#include "jj.h"
+#include "json.h"
 
 int main()
 {
